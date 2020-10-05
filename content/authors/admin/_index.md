@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Eugene Wang
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master's Student at NYU
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Back-End Web Development
+- Cloud Service
+- Reinforcement Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MS in Computer Engineering
+    institution: New York University
+    year: 2021
+  - course: MS in Theoretical Chemistry
+    institution: National Taiwan University
+    year: 2018
+  - course: BS in Chemistry
+	institution: National Taiwan University
+    year: 2014
+  - course: Exchange Student in Japanese Language and Culture
+	institution: Osaka University
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,21 +47,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: mailto:yjwang.y56@gmail.com  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/y56
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/y56/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/resume-off-v10.01-y56-us.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +71,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi there! I'm Eugene Wang. I am currently a Master's student in Computer Engineering at New York University. I earned my Bachelor's degree in Chemistry from National Taiwan University in 2014.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+This Summer, I joined [Shopee](https://shopee.tw/) as a Data Scientist Intern, developing an AI system for dynamic pricing. 
+
+I am actively looking for 2021 Summer New Grad Software Engineer positions, if you have any opportunity, feel free to contact me through my [Email](mailto:yjwang.y56@gmail.com) or [LinkedIn](https://www.linkedin.com/in/y56/). 
+
+Thanks for stopping by!
