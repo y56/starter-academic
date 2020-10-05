@@ -34,10 +34,10 @@ education:
     institution: National Taiwan University
     year: 2018
   - course: BS in Chemistry
-	institution: National Taiwan University
+    institution: National Taiwan University
     year: 2014
   - course: Exchange Student in Japanese Language and Culture
-	institution: Osaka University
+    institution: Osaka University
     year: 2016
 
 # Social/Academic Networking
