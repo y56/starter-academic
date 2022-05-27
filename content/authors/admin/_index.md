@@ -71,10 +71,6 @@ user_groups:
 - Visitors
 ---
 
-Hi there! I'm Eugene Wang. I am currently a Master's student in Computer Engineering at New York University. I earned my Bachelor's degree in Chemistry from National Taiwan University in 2014.
+Hi there! I'm Eugene Wang, currently the Lead Software Engineer at ApeVue, a startup providing daily, independent, market-driven price data covering pre-IPO companies. I earned my Master's degree in Computer Engineering at New York University in 2021 and worked on Theoretical Chemistry before turning to Software Development.
 
-This Summer, I joined [Shopee](https://shopee.tw/) as a Data Scientist Intern, developing an AI system for dynamic pricing. 
-
-I am actively looking for 2021 Summer New Grad Software Engineer positions, if you have any opportunity, feel free to contact me through my [Email](mailto:yjwang.y56@gmail.com) or [LinkedIn](https://www.linkedin.com/in/y56/). 
-
-Thanks for stopping by!
+Feel free to contact me through my [Email](mailto:yjwang.y56@gmail.com) or [LinkedIn](https://www.linkedin.com/in/y56/). Thanks for stopping by!
